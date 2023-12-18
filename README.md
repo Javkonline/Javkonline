@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<html xmlns="http://www.w3.org/1999/xhtml"> 
 <head>
  <title>JS1k: Breathing Galaxies (1013 bytes)</title>
  <script type="text/javascript">
@@ -101,3 +103,4 @@ window.onload = function () {
 <canvas id="c"></canvas>
 </body>
 </html>
+
